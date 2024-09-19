@@ -1,4 +1,6 @@
-### 👋 Hi, I’m **@t0fudev!** ★, I'm a web3 enthusiast exploring the intriguing world of blockchain technology and continuously improving my skills in the Cairo programming language. •ᴗ• ♡
+## 👋 Hi, I’m **@t0fudev!** ★ 
+
+I'm a web3 enthusiast exploring the intriguing world of blockchain technology and continuously improving my skills in the Cairo programming language. •ᴗ• ♡
 
 ## I’m interested in ˶ᵔ ᵕ ᵔ˶
 - Immersing myself into how blockchains operate, including consensus mechanisms, smart contracts, and decentralized applications (dApps).
