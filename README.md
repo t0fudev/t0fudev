@@ -1,4 +1,4 @@
-## 👋 Hi, I’m **@t0fudev!** ★ 
+## 👋 Hi, I’m **t0fudev!** ★ aka Hellen |˶˙ᵕ˙ )ﾉﾞ
 
 I'm a web3 enthusiast exploring the intriguing world of blockchain technology and continuously improving my skills in the Cairo programming language. •ᴗ• ♡
 
