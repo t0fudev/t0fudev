@@ -1,6 +1,6 @@
 ## Hi, I’m **t0fudev!** ★ aka Hellen Xie 
 
-![GIF](https://i.pinimg.com/originals/6f/19/d2/6f19d284cfdf5afb3ff535bd86e4ac6c.gif)
+![GIF](https://i.pinimg.com/originals/1b/de/85/1bde855b1bd40f35b92ae6fc2d2173fa.gif)
 
 I'm a Web3 developer and a Software Engineering student at Universidad Latina de Costa Rica, passionate about blockchain technology and continuously improving my skills. 
 
