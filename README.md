@@ -4,7 +4,7 @@
   <img src="https://i.pinimg.com/originals/1b/de/85/1bde855b1bd40f35b92ae6fc2d2173fa.gif" />
 </p>
 
-I'm a Web3 developer and a Software Engineering student at Universidad Latina de Costa Rica, passionate about blockchain technology and continuously improving my skills. 
+I'm a Web3 developer and a Software Engineering student at Universidad Fidélitas, passionate about blockchain technology and continuously improving my skills. 
 
 ## 💡 I’m interested in 
 
