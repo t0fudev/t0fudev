@@ -1,38 +1,28 @@
-## Hi, I’m **t0fudev!** ★ aka Hellen Xie 
+## Hello, I’m **t0fudev!** aka Ying Xie ✦
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/1b/de/85/1bde855b1bd40f35b92ae6fc2d2173fa.gif" />
 </p>
 
-I'm a Web3 developer and a Software Engineering student at Universidad Fidélitas, passionate about blockchain technology and continuously improving my skills. 
+I'm a Computer Science student at Universidad Fidélitas, passionate about building software that creates an impact.
 
-## 💡 I’m interested in 
+### ✦ I’m interested in 
 
--  Exploring how blockchains can solve real world problems and contributing to projects that create a positive impact on society.
--  Studying machine learning and how it can be integrated with blockchain to enhance security, automation, and data analysis.
+- Exploring, learning and understanding new concepts and technologies by hands-on learning.
+- Bridging the gap between the classroom theory with challenges and interesting projects that improves my skills and knowledge.
 
-## 📚 Currently... 
-- Learning Cairo through the Starklings app to strengthen my understanding of the language.
-- Improving my frontend development skills.
-- Contributing to open-source projects on OnlyDust.
+### ✦ Currently... 
+- Preparing for AZ-900 Azure Certification.
+- In a Data Analyst learning journey, building practical skills and projects.
 
-## 🛠️ Tech Stack 
+### ✦ Tools & Tech
 
-### Languages
-- Cairo 🦀
-- Java ☕
-- TypeScript
-- JavaScript
+- Java, Python, C#
+- Tailwind CSS, React
+- Git, Apple Notes.
 
-### Frameworks and Libraries
-- Tailwind CSS 🎨
-- React ⚛️
-  
-### Tools
-- Git 
-
-## 📬 Let's connect!!  
-- **Email** ✦ [hellenxie09@gmail.com](mailto:hellenxie09@gmail.com)  
+### ✦ Let's connect! 
+- **Email** ✦ [yingxieyu0523@gmail.com](mailto:yingxieyu0523@gmail.com)  
 - **X (Twitter)** ✦ [@t0fudev](https://x.com/t0fudev)  
 - **Telegram** ✦ [@t0fudev](https://t.me/t0fudev)  
  
